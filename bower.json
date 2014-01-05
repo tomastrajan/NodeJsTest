@@ -1,0 +1,9 @@
+{
+    "name":  "NodeJsTest",
+    "version": "0.0.1",
+    "dependencies": {
+        "angular": "latest",
+        "jquery": "latest",
+		"bootstrap": "latest"
+    }
+}
